@@ -1,0 +1,26 @@
+h1 {
+	color: purple;
+
+}
+header {
+	padding-top: 146px;
+	width: 100%;
+}
+p {
+	font-size: 17px;
+	color: blue;
+}
+body {
+	background-color: black;
+}
+h3 {
+	color: white;
+	font-style: helvetica;
+}
+#homeButton {
+	color: white;
+}
+.navbar-brand {
+	font-weight: bolder;
+	font-size: 25px;
+}
